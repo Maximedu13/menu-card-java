@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author maximejacquette
+ *
+ */
+module algo {
+}
